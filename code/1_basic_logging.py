@@ -7,5 +7,4 @@ print(message)
 
 # enter the standard logging module
 import logging
-
 logging.warning(message)
