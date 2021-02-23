@@ -1,6 +1,5 @@
 # Logging has severity levels
 
-
 # LEVEL    | VALUE
 # CRITICAL | 50
 # ERROR    | 40
