@@ -20,6 +20,6 @@ logger.addHandler(handler)
 message = "I don't always log, but when I do, I use log rotation"
 
 # Log 100 entries
-for i in tqdm(range(100)):
+for i in tqdm(range(10000)):
     logger.info(message)
 

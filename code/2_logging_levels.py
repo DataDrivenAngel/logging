@@ -11,7 +11,8 @@
 
 import logging
 
-logging.basicConfig(format='%(asctime)s %(levelname)s %(message)s', level=logging.INFO)
+logging.basicConfig(format='%(asctime)s %(levelname)s %(message)s'
+                    , level=logging.INFO)
 
 
 message = "I don't always debug, but when I do, I use the standard logging module"
